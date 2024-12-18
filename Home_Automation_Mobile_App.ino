@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6kq55FW_O"
+#define BLYNK_TEMPLATE_ID "*************"
 #define BLYNK_TEMPLATE_NAME "Home auto"
-#define BLYNK_AUTH_TOKEN "i1m_4iMldFbKm21dRvhLu4Q6mPfUFzpy"
+#define BLYNK_AUTH_TOKEN "*****************"
 
 #define BLYNK_PRINT Serial
 
